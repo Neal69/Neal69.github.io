@@ -1,0 +1,14 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    background-color: #353434;
+}
+
+p{
+    font-size: small;
+}
+
+a:visited{
+    color: rgb(188, 183, 183);
+    text-decoration: none;
+}
